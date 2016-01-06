@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AAPM</string>
+
+    <string name="kelas">Kelas</string>
+    <string name="mhs">Mahasiswa</string>
+    <string name="absen">Absensi</string>
+    <string name="nilai">Nilai</string>
+    <string name="mhskelas">Mahasiswa -> Kelas</string>
+    <string name="tambah">+</string>
+    <string name="carikelas">Cari kelas..</string>
+    <string name="carimhs">Cari Mahasiswa..</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="dikelas">Di Kelas : </string>
+    <string name="nmkelas">Nama Kelas</string>
+    <string name="nmmhs">Nama Mahasiswa</string>
+    <string name="nimmhs">NIM Mahasiswa</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="hadir">H</string>
+    <string name="ijin">I</string>
+    <string name="sakit">S</string>
+    <string name="alpa">A</string>
+    <string name="carinim">Cari NIM/Nama..</string>
+    <string name="pertemuan">Pertemuan Ke </string>
+    <string name="persentase">Persentase Kehadiran</string>
+    <string name="masukkannilai">Masukkan Nilai..</string>
+    <string name="lihatnilai">Lihat Daftar Nilai</string>
+    <string name="editKelas">Edit Kelas</string>
+    <string name="editMahasiswa">Edit Mahasiswa</string>
+    <string name="daftarMahasiswaKelas">Daftar Mahasiswa Kelas</string>
+    <string name="daftarNilai">Daftar Nilai</string>
+    <string name="mhsorkelas">Mahasiswa / Kelas</string>
+    <string name="lihat">-></string>
+
+    <string-array name="keteranganKehadiran">
+        <item>Hadir</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+        <item>Alfa</item>
+    </string-array>
+</resources>
